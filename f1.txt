@@ -74,3 +74,9 @@ git push origin main
 git log
 git revert (paste commit hash)
 git push origin main 
+
+
+
+
+
+git remote set-url --add --push <remote> <url>:
